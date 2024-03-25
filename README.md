@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <p align="center">
-        <img src="Bottom.svg" alt="Github Stats" />
+        <img src="https://github.com/teaongsi/teaongsi/blob/ca7654a6cf77378570fae4bbfd4b0e278f678e70/Bottom.svg" alt="Github stats" />
 </p>
