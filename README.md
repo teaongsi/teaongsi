@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Teaongsi Angdembe</h1>
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, I'm Teaongsi Angdembe
 
 <!-- GIF -->
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif?cid=790b76111vxg6ihmtqny3k5iz51o12vdy7sl4ebfme1cqb9i&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/>
 </div>
 <br/>
 
 <!-- Connect links -->
-<div align="center">
+<div align="left">
   <a href="https://linkedin.com/in/teaongsi-angdembe-591667294" target="blank">
     <img
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
