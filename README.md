@@ -5,7 +5,7 @@
 		current_work = 'Student'
 		hobbies = [
 				'Watching films',
-				'Reading books'
+				'Reading books',
 				'Letting it linger'
                          ]
 	
