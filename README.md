@@ -1,11 +1,17 @@
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, I'm Teaongsi Angdembe
+<div align="center">
+	<h2>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, I'm Teaongsi Angdembe</h2>
+</div>
 
 <!-- GIF -->
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif?cid=790b76111vxg6ihmtqny3k5iz51o12vdy7sl4ebfme1cqb9i&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif?cid=790b76111vxg6ihmtqny3k5iz51o12vdy7sl4ebfme1cqb9i&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150"/>
 </div>
 <br/>
 
+- 👀 Interested in Full Stack Development
+- 🌱 Currently learning : JS.
+- 📫 How to reach me : angdembe.teaongsi@gmail.com
+ 
 <!-- Connect links -->
 <div align="left">
   <a href="https://linkedin.com/in/teaongsi-angdembe-591667294" target="blank">
