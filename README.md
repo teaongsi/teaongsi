@@ -31,23 +31,25 @@
 
  
  ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Teaongsi Angdembe'
-		current_work = 'Student'
-		hobbies = [
-				'Watching films',
-				'Reading books',
-				'Letting it linger'
-                         ]
-	
-	def getCity():
-		return Kathmandu_Nepal()
-	
-	def Ambitions():
-		LearnSpanish()
-		WitnessAuroraBorealis()
-		# Assume 10 more awesome ambitions here
+ ```html
+<body>
+<div id="WhoAmI">
+    	<p>User: Teaongsi Angdembe</p>
+    	<p>Current Work: Student</p>
+    	<p>Hobbies:</p>
+    	<ul>
+        	<li>Watching films</li>
+        	<li>Reading books</li>
+        	<li>Letting it linger</li>
+    	</ul>
+	<p>Hobbies:</p>
+    	<ul>
+        	<li>Learn Spanish</li>
+        	<li>Witness Aurora Borealis</li>
+        	<!--Assume 10 more awesome ambitions here-->
+   	</ul>
+</div>
+</body>
 	
  ```
 
