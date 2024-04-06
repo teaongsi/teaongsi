@@ -42,7 +42,7 @@
         	<li>Reading books</li>
         	<li>Letting it linger</li>
     	</ul>
-	<p>Hobbies:</p>
+	<p>Ambitions:</p>
     	<ul>
         	<li>Learn Spanish</li>
         	<li>Witness Aurora Borealis</li>
