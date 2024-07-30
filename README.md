@@ -9,26 +9,7 @@
 
 - 👀 Interested in Full Stack Development
 - 🌱 Currently learning : JS.
-- 📫 How to reach me : angdembe.teaongsi@gmail.com
- 
-## Connect with me
-<div align="center">
-  <a href="https://www.facebook.com/teaongsi.angdembe">
-    <img src=https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/Facebook_white.svg width="30" height="30">
-  </a>
-  
-  <a href="mailto:angdembe.teaongsi@gmail.com" target="blank">
-    <img src=https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/Gmail_white.svg width="30" height="30">
-  </a>
-	
-  <a href="https://linkedin.com/in/teaongsi-angdembe-591667294" target="blank">
-     <img src=https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg width="30" height="30">
-  </a>
-
-  
-</div>
-<br/>
-
+- 🫂 I’m looking to collaborate on Web Development Projects
  
  ## Who am I?
  ```html
@@ -38,20 +19,45 @@
     	<p>Current Work: Student</p>
     	<p>Hobbies:</p>
     	<ul>
-        	<li>Watching films</li>
-        	<li>Reading books</li>
-        	<li>Letting it linger</li>
+        		<li>Watching films</li>
+        		<li>Reading books</li>
+        		<li>Letting it linger</li>
     	</ul>
-	<p>Ambitions:</p>
+		<p>Ambitions:</p>
     	<ul>
-        	<li>Learn Spanish</li>
-        	<li>Witness Aurora Borealis</li>
-        	<!--Assume 10 more awesome ambitions here-->
+        		<li>Learn Full Stack Development</li>
+        		<li>Witness Aurora Borealis</li>
+        		<!--Assume 10 more awesome ambitions here-->
    	</ul>
 </div>
 </body>
 	
  ```
+
+## Languages and Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5" alt="HTML">
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3" alt="CSS">
+  <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=c" alt="C">
+  <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B" alt="C++">
+</p>
+ 
+## Connect with me
+<div align="center">
+  <a target="_blank" href="https://www.facebook.com/teaongsi.angdembe">
+    <img src=https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/Facebook_white.svg width="30" height="30">
+  </a>
+  
+  <a target="_blank" href="mailto:angdembe.teaongsi@gmail.com" target="blank">
+    <img src=https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/Gmail_white.svg width="30" height="30">
+  </a>
+	
+  <a target="_blank" href="https://linkedin.com/in/teaongsi-angdembe-591667294" target="blank">
+     <img src=https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg width="30" height="30">
+  </a>
+
 
 <p align="center">
         <img src="https://github.com/teaongsi/teaongsi/blob/ca7654a6cf77378570fae4bbfd4b0e278f678e70/Bottom.svg" alt="Github stats" />
