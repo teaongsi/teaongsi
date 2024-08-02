@@ -8,7 +8,7 @@
 <br>
 
 - 👀 Interested in Full Stack Development
-- 🌱 Currently learning : JS.
+- 🌱 Currently learning : Back-end Development
 - 🫂 I’m looking to collaborate on Web Development Projects
  
  ## Who am I?
