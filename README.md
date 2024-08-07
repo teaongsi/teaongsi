@@ -30,8 +30,7 @@
         		<!--Assume 10 more awesome ambitions here-->
    	</ul>
 </div>
-</body>
-	
+</body>	
  ```
 
 ## Languages and Tools
