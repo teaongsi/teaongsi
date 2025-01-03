@@ -37,6 +37,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js">
   <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5" alt="HTML">
   <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3" alt="CSS">
   <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=c" alt="C">
