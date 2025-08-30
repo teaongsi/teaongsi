@@ -26,7 +26,8 @@
 		<p>Ambitions:</p>
     	<ul>
         		<li>Become a Full Stack Developer</li>
-        		<li>Witness Aurora Borealis</li>
+        		<li>Witness the Aurora Borealis</li>
+				<li>Learn German</li>
         		<!--Assume 10 more awesome ambitions here-->
    	</ul>
 </div>
